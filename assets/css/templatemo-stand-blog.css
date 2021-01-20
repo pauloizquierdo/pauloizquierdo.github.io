@@ -1014,6 +1014,19 @@ footer p a:hover {
 	}
 }
 
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+.owl-banner .item .item-content .meta-category span {
+		font-size: 12px;
+	}
+	.owl-banner .item .item-content h4 {
+		font-size: 12px;
+	}
+	.owl-banner .owl-nav {
+		display: none;
+	}
+}
+
 @media (max-width: 992px) {
 	.navbar .navbar-brand {
 		position: absolute;
