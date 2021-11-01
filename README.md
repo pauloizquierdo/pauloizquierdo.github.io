@@ -1,6 +1,6 @@
 # Paulo Izquierdo - Website
 
-ABOUT ME
+Aboit me
 PhDc - Plant Breeding, Genetics, And Biotechnology
 Michigan State University
 
