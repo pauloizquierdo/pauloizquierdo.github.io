@@ -1,3 +1,5 @@
+### Start here!
+
 git config core.sshCommand "ssh -i ~/.ssh/id_paulo -F /dev/null"
 
 ssh-add -K ~/.ssh/id_paulo #thi one worked
