@@ -1,7 +1,35 @@
-# PhD - Plant Breeding, Genetics, And Biotechnology
+## 👨‍🔬 About Me
 
-Michigan State University
-Area of Expertise: Quantitative trait loci analysis, genome-wide association and genomic prediction in dry bean.
-I earned my bachelor's degree in biology from Universidad del Tolima in Colombia. Following my graduation, I became a part of the International Center of Tropical Agriculture (CIAT), where my research centered on dry beans. Later, I contributed to various projects at the Colombian Sugarcane Research Center (CENICAÑA). Throughout my career, I've delved into the relationship between genotype and phenotype in plant breeding.
+### Paulo Izquierdo, Ph.D.  
+**Research Associate – Great Lakes Bioenergy Research Center**  
+**Ph.D. – Plant Breeding, Genetics, and Biotechnology, Michigan State University**
 
-I pursued my Ph.D. in Plant Breeding, Genetics, and Biotechnology at Michigan State University. My doctoral work focused on the application of genomic prediction in dry beans, with the goal of expediting genetic progress in essential traits such as yield, mineral concentration, and end-use quality. Currently, I am a research associate at the Great Lakes Bioenergy Research Center. My research encompasses computational sciences and genomic prediction across different crops.
+I am a plant geneticist and computational biologist with a strong focus on the integration of genomics and quantitative genetics to accelerate genetic gain in crops. My research expertise includes **quantitative trait loci (QTL) analysis**, **genome-wide association studies (GWAS)**, and **genomic prediction**, primarily in dry beans and bioenergy crops.
+
+---
+
+## 🎓 Education & Background
+
+I earned my **bachelor’s degree in Biology** from **Universidad del Tolima** in Colombia. After graduation, I joined the **International Center for Tropical Agriculture (CIAT)**, where I worked on dry bean improvement. Later, I collaborated on breeding and genomics projects at the **Colombian Sugarcane Research Center (CENICAÑA)**.
+
+I completed my **Ph.D. in Plant Breeding, Genetics, and Biotechnology** at **Michigan State University**, where my research focused on applying genomic prediction in dry bean breeding. My doctoral work aimed to accelerate genetic improvement for key traits including **yield**, **mineral concentration**, and **canning quality**.
+
+---
+
+## 🔬 Current Role
+
+As a **Research Associate at the Great Lakes Bioenergy Research Center**, I apply computational biology approaches to dissect the genetic architecture of complex traits in bioenergy crops. My work bridges **data science**, **plant genomics**, and **predictive modeling** to support sustainable crop improvement strategies.
+
+---
+
+## 🌱 Research Interests
+
+- Genomic selection and prediction  
+- Quantitative trait dissection (QTL mapping, GWAS)  
+- Integration of multi-omic and phenotypic data  
+- Biofortification and nutritional quality in legumes  
+- Computational biology in plant breeding
+- Machine learning applied to biological data
+
+---
+
