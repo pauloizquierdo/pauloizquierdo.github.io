@@ -1,7 +1,7 @@
 ## 👨‍🔬 About Me
 
 ### Paulo Izquierdo, Ph.D.  
-**Research Associate – Great Lakes Bioenergy Research Center**  
+**Assistant professor – New Mexico State University**  
 **Ph.D. – Plant Breeding, Genetics, and Biotechnology, Michigan State University**
 
 I am a plant geneticist and computational biologist with a strong focus on the integration of genomics and quantitative genetics to accelerate genetic gain in crops. My research expertise includes **quantitative trait loci (QTL) analysis**, **genome-wide association studies (GWAS)**, and **genomic prediction**, primarily in dry beans and bioenergy crops.
@@ -16,20 +16,15 @@ I completed my **Ph.D. in Plant Breeding, Genetics, and Biotechnology** at **Mic
 
 ---
 
-## 🔬 Current Role
-
-As a **Research Associate at the Great Lakes Bioenergy Research Center**, I apply computational biology approaches to dissect the genetic architecture of complex traits in bioenergy crops. My work bridges **data science**, **plant genomics**, and **predictive modeling** to support sustainable crop improvement strategies.
-
----
-
 ## 🌱 Research Interests
 
+- Plant breeding
 - Genomic selection and prediction  
 - Quantitative trait dissection (QTL mapping, GWAS)  
 - Integration of multi-omic and phenotypic data  
 - Biofortification and nutritional quality in legumes  
 - Computational biology in plant breeding
-- Machine learning applied to biological data
+- AI/ML applied to biological data
 
 ---
 
